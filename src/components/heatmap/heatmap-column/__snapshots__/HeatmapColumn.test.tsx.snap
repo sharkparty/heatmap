@@ -9,145 +9,241 @@ exports[`Component: HeatmapColumn renders without crashing 1`] = `
     config={Object {}}
     intervalOfTime={0}
     key="0"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={1}
     key="1"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={2}
     key="2"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={3}
     key="3"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={4}
     key="4"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={5}
     key="5"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={6}
     key="6"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={7}
     key="7"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={8}
     key="8"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={9}
     key="9"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={10}
     key="10"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={11}
     key="11"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={12}
     key="12"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={13}
     key="13"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={14}
     key="14"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={15}
     key="15"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={16}
     key="16"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={17}
     key="17"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={18}
     key="18"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={19}
     key="19"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={20}
     key="20"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={21}
     key="21"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={22}
     key="22"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <withProps(Component)
     config={Object {}}
     intervalOfTime={23}
     key="23"
-    meta={Object {}}
+    meta={
+      Object {
+        "range": 0,
+      }
+    }
   />
   <div
     className="row-key"
