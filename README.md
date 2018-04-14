@@ -4,10 +4,19 @@
 
 This is a simple react-based heatmap that can be installed as an npm module. It's modestly configurable 
 
-## Installation
+## Module Installation
 
 ```bash
 npm i -S sharkparty-heatmap 
+```
+
+## Run Demo Locally
+
+```bash
+git clone git@github.com:sharkparty/heatmap.git
+cd heatmap/
+yarn
+yarn start
 ```
 
 ## Requirements
