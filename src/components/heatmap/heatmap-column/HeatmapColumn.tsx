@@ -12,7 +12,7 @@ import './HeatmapColumn.css';
 export interface HeatmapColumnParams {
     dayOfWeek: number | string;
     config: {};
-    meta: {};
+    meta: { range: number; };
     dayData?: {};
 }
 
