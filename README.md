@@ -1,13 +1,13 @@
 ![Build](https://travis-ci.org/sharkparty/heatmap.svg?branch=master)
 
-# @sharkparty/heatmap
+# sharkparty-heatmap
 
 This is a simple react-based heatmap that can be installed as an npm module. It's modestly configurable 
 
 ## Installation
 
 ```bash
-npm i -S @sharkparty/heatmap 
+npm i -S sharkparty-heatmap 
 ```
 
 ## Requirements
@@ -24,7 +24,7 @@ npm i -S @sharkparty/heatmap
     * So I default to the schema I was provided with, but it's easy enough to pass in a config to override the mappings. There's an example in the unit test:
     * ```const subject = heatmapDataMapper(mockData, { ...defaultConfig, path: 'result' });```
 1. Appear in two different locations on the page, each of them bound to different keys in the "index" object (you will need to copy and modify the supplied data)
-    * There's two mock data files and two implementations in `App.tsx`. This entire repo is kind of a module demo for the module `@sharkparty/heatmap`, which can be installed as an npm package.
+    * There's two mock data files and two implementations in `App.tsx`. This entire repo is kind of a module demo for the module `sharkparty-heatmap`, which can be installed as an npm package.
 1. The time period and severity controls in the screenshot are not required to be implemented
     * If I have time, I'll implement them into the little app that uses the module installation of this.
 1. All data mappings to the widget should be configurable.

@@ -17,6 +17,7 @@ before_script:
   - yarn
 
 script:
+  - yarn build-css
   - yarn lint
   - yarn test:coverage
 
