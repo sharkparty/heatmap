@@ -1,3 +1,5 @@
+![Build](https://travis-ci.org/sharkparty/heatmap.svg?branch=master)
+
 # @sharkparty/heatmap
 
 This is a simple react-based heatmap that can be installed as an npm module. It's modestly configurable 
