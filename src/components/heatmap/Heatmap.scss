@@ -1,0 +1,27 @@
+.heatmap-container {
+  display: flex;
+  padding: 5px 5px 5px 15px;
+  width: calc(100% - 30px);
+
+  .keys-container {
+    max-width: 45px;
+    font-size: .75em;
+    text-align: right;
+    flex: 1;
+    text-transform: uppercase;
+
+    .heatmap-key {
+      margin-right: 5px;
+      height: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+
+  .columns-container {
+    width: 90%;
+    flex: 1;
+    display: flex;
+  }
+}

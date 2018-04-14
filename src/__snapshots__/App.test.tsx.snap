@@ -1,0 +1,1114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: App renders without crashing 1`] = `
+<App
+  heatmapData={
+    Array [
+      Object {
+        "0": Object {
+          "label": "Sun 12am",
+          "value": 10,
+        },
+        "10": Object {
+          "label": "Sun 10am",
+          "value": 110,
+        },
+        "11": Object {
+          "label": "Sun 11am",
+          "value": 410,
+        },
+        "12": Object {
+          "label": "Sun 12pm",
+          "value": 20,
+        },
+        "13": Object {
+          "label": "Sun 1pm",
+          "value": 10,
+        },
+        "14": Object {
+          "label": "Sun 2pm",
+          "value": 100,
+        },
+        "15": Object {
+          "label": "Sun 3pm",
+          "value": 20,
+        },
+        "16": Object {
+          "label": "Sun 4pm",
+          "value": 50,
+        },
+        "17": Object {
+          "label": "Sun 5pm",
+          "value": 80,
+        },
+        "18": Object {
+          "label": "Sun 6pm",
+          "value": 100,
+        },
+        "19": Object {
+          "label": "Sun 7pm",
+          "value": 100,
+        },
+        "2": Object {
+          "label": "Sun 2am",
+          "value": 80,
+        },
+        "20": Object {
+          "label": "Sun 8pm",
+          "value": 20,
+        },
+        "23": Object {
+          "label": "Sun 11pm",
+          "value": 20,
+        },
+        "3": Object {
+          "label": "Sun 3am",
+          "value": 20,
+        },
+        "4": Object {
+          "label": "Sun 4am",
+          "value": 20,
+        },
+        "7": Object {
+          "label": "Sun 7am",
+          "value": 90,
+        },
+        "9": Object {
+          "label": "Sun 9am",
+          "value": 20,
+        },
+      },
+      Object {
+        "10": Object {
+          "label": "Mon 10am",
+          "value": 620,
+        },
+        "11": Object {
+          "label": "Mon 11am",
+          "value": 200,
+        },
+        "12": Object {
+          "label": "Mon 12pm",
+          "value": 140,
+        },
+        "13": Object {
+          "label": "Mon 1pm",
+          "value": 40,
+        },
+        "14": Object {
+          "label": "Mon 2pm",
+          "value": 370,
+        },
+        "15": Object {
+          "label": "Mon 3pm",
+          "value": 40,
+        },
+        "16": Object {
+          "label": "Mon 4pm",
+          "value": 110,
+        },
+        "17": Object {
+          "label": "Mon 5pm",
+          "value": 120,
+        },
+        "18": Object {
+          "label": "Mon 6pm",
+          "value": 350,
+        },
+        "19": Object {
+          "label": "Mon 7pm",
+          "value": 190,
+        },
+        "20": Object {
+          "label": "Mon 8pm",
+          "value": 40,
+        },
+        "21": Object {
+          "label": "Mon 9pm",
+          "value": 150,
+        },
+        "22": Object {
+          "label": "Mon 10pm",
+          "value": 70,
+        },
+        "7": Object {
+          "label": "Mon 7am",
+          "value": 90,
+        },
+        "8": Object {
+          "label": "Mon 8am",
+          "value": 180,
+        },
+        "9": Object {
+          "label": "Mon 9am",
+          "value": 240,
+        },
+      },
+      Object {
+        "10": Object {
+          "label": "Tue 10am",
+          "value": 400,
+        },
+        "11": Object {
+          "label": "Tue 11am",
+          "value": 560,
+        },
+        "12": Object {
+          "label": "Tue 12pm",
+          "value": 370,
+        },
+        "13": Object {
+          "label": "Tue 1pm",
+          "value": 520,
+        },
+        "14": Object {
+          "label": "Tue 2pm",
+          "value": 190,
+        },
+        "15": Object {
+          "label": "Tue 3pm",
+          "value": 70,
+        },
+        "16": Object {
+          "label": "Tue 4pm",
+          "value": 180,
+        },
+        "17": Object {
+          "label": "Tue 5pm",
+          "value": 260,
+        },
+        "18": Object {
+          "label": "Tue 6pm",
+          "value": 310,
+        },
+        "19": Object {
+          "label": "Tue 7pm",
+          "value": 140,
+        },
+        "2": Object {
+          "label": "Tue 2am",
+          "value": 50,
+        },
+        "20": Object {
+          "label": "Tue 8pm",
+          "value": 110,
+        },
+        "21": Object {
+          "label": "Tue 9pm",
+          "value": 240,
+        },
+        "22": Object {
+          "label": "Tue 10pm",
+          "value": 70,
+        },
+        "23": Object {
+          "label": "Tue 11pm",
+          "value": 40,
+        },
+        "4": Object {
+          "label": "Tue 4am",
+          "value": 110,
+        },
+        "7": Object {
+          "label": "Tue 7am",
+          "value": 120,
+        },
+        "8": Object {
+          "label": "Tue 8am",
+          "value": 180,
+        },
+        "9": Object {
+          "label": "Tue 9am",
+          "value": 260,
+        },
+      },
+      Object {
+        "10": Object {
+          "label": "Wed 10am",
+          "value": 610,
+        },
+        "11": Object {
+          "label": "Wed 11am",
+          "value": 510,
+        },
+        "12": Object {
+          "label": "Wed 12pm",
+          "value": 300,
+        },
+        "13": Object {
+          "label": "Wed 1pm",
+          "value": 590,
+        },
+        "14": Object {
+          "label": "Wed 2pm",
+          "value": 310,
+        },
+        "15": Object {
+          "label": "Wed 3pm",
+          "value": 240,
+        },
+        "16": Object {
+          "label": "Wed 4pm",
+          "value": 100,
+        },
+        "17": Object {
+          "label": "Wed 5pm",
+          "value": 160,
+        },
+        "18": Object {
+          "label": "Wed 6pm",
+          "value": 670,
+        },
+        "19": Object {
+          "label": "Wed 7pm",
+          "value": 160,
+        },
+        "20": Object {
+          "label": "Wed 8pm",
+          "value": 120,
+        },
+        "21": Object {
+          "label": "Wed 9pm",
+          "value": 50,
+        },
+        "22": Object {
+          "label": "Wed 10pm",
+          "value": 20,
+        },
+        "23": Object {
+          "label": "Wed 11pm",
+          "value": 280,
+        },
+        "6": Object {
+          "label": "Wed 6am",
+          "value": 50,
+        },
+        "7": Object {
+          "label": "Wed 7am",
+          "value": 140,
+        },
+        "8": Object {
+          "label": "Wed 8am",
+          "value": 220,
+        },
+        "9": Object {
+          "label": "Wed 9am",
+          "value": 280,
+        },
+      },
+      Object {
+        "0": Object {
+          "label": "Thu 12am",
+          "value": 120,
+        },
+        "1": Object {
+          "label": "Thu 1am",
+          "value": 50,
+        },
+        "10": Object {
+          "label": "Thu 10am",
+          "value": 670,
+        },
+        "11": Object {
+          "label": "Thu 11am",
+          "value": 650,
+        },
+        "12": Object {
+          "label": "Thu 12pm",
+          "value": 620,
+        },
+        "13": Object {
+          "label": "Thu 1pm",
+          "value": 270,
+        },
+        "14": Object {
+          "label": "Thu 2pm",
+          "value": 360,
+        },
+        "15": Object {
+          "label": "Thu 3pm",
+          "value": 400,
+        },
+        "16": Object {
+          "label": "Thu 4pm",
+          "value": 110,
+        },
+        "17": Object {
+          "label": "Thu 5pm",
+          "value": 100,
+        },
+        "18": Object {
+          "label": "Thu 6pm",
+          "value": 400,
+        },
+        "19": Object {
+          "label": "Thu 7pm",
+          "value": 260,
+        },
+        "20": Object {
+          "label": "Thu 8pm",
+          "value": 70,
+        },
+        "21": Object {
+          "label": "Thu 9pm",
+          "value": 130,
+        },
+        "22": Object {
+          "label": "Thu 10pm",
+          "value": 180,
+        },
+        "23": Object {
+          "label": "Thu 11pm",
+          "value": 210,
+        },
+        "3": Object {
+          "label": "Thu 3am",
+          "value": 80,
+        },
+        "5": Object {
+          "label": "Thu 5am",
+          "value": 60,
+        },
+        "6": Object {
+          "label": "Thu 6am",
+          "value": 80,
+        },
+        "7": Object {
+          "label": "Thu 7am",
+          "value": 260,
+        },
+        "8": Object {
+          "label": "Thu 8am",
+          "value": 100,
+        },
+        "9": Object {
+          "label": "Thu 9am",
+          "value": 350,
+        },
+      },
+      Object {
+        "0": Object {
+          "label": "Fri 12am",
+          "value": 110,
+        },
+        "10": Object {
+          "label": "Fri 10am",
+          "value": 510,
+        },
+        "11": Object {
+          "label": "Fri 11am",
+          "value": 440,
+        },
+        "12": Object {
+          "label": "Fri 12pm",
+          "value": 550,
+        },
+        "13": Object {
+          "label": "Fri 1pm",
+          "value": 450,
+        },
+        "14": Object {
+          "label": "Fri 2pm",
+          "value": 400,
+        },
+        "15": Object {
+          "label": "Fri 3pm",
+          "value": 220,
+        },
+        "16": Object {
+          "label": "Fri 4pm",
+          "value": 390,
+        },
+        "17": Object {
+          "label": "Fri 5pm",
+          "value": 480,
+        },
+        "18": Object {
+          "label": "Fri 6pm",
+          "value": 430,
+        },
+        "19": Object {
+          "label": "Fri 7pm",
+          "value": 120,
+        },
+        "20": Object {
+          "label": "Fri 8pm",
+          "value": 50,
+        },
+        "21": Object {
+          "label": "Fri 9pm",
+          "value": 120,
+        },
+        "22": Object {
+          "label": "Fri 10pm",
+          "value": 300,
+        },
+        "23": Object {
+          "label": "Fri 11pm",
+          "value": 140,
+        },
+        "4": Object {
+          "label": "Fri 4am",
+          "value": 110,
+        },
+        "5": Object {
+          "label": "Fri 5am",
+          "value": 50,
+        },
+        "6": Object {
+          "label": "Fri 6am",
+          "value": 100,
+        },
+        "7": Object {
+          "label": "Fri 7am",
+          "value": 10,
+        },
+        "9": Object {
+          "label": "Fri 9am",
+          "value": 260,
+        },
+      },
+      Object {
+        "0": Object {
+          "label": "Sat 12am",
+          "value": 90,
+        },
+        "10": Object {
+          "label": "Sat 10am",
+          "value": 110,
+        },
+        "11": Object {
+          "label": "Sat 11am",
+          "value": 360,
+        },
+        "12": Object {
+          "label": "Sat 12pm",
+          "value": 130,
+        },
+        "13": Object {
+          "label": "Sat 1pm",
+          "value": 170,
+        },
+        "14": Object {
+          "label": "Sat 2pm",
+          "value": 250,
+        },
+        "15": Object {
+          "label": "Sat 3pm",
+          "value": 100,
+        },
+        "16": Object {
+          "label": "Sat 4pm",
+          "value": 180,
+        },
+        "17": Object {
+          "label": "Sat 5pm",
+          "value": 310,
+        },
+        "18": Object {
+          "label": "Sat 6pm",
+          "value": 320,
+        },
+        "19": Object {
+          "label": "Sat 7pm",
+          "value": 310,
+        },
+        "2": Object {
+          "label": "Sat 2am",
+          "value": 130,
+        },
+        "20": Object {
+          "label": "Sat 8pm",
+          "value": 160,
+        },
+        "21": Object {
+          "label": "Sat 9pm",
+          "value": 100,
+        },
+        "22": Object {
+          "label": "Sat 10pm",
+          "value": 50,
+        },
+        "23": Object {
+          "label": "Sat 11pm",
+          "value": 180,
+        },
+        "4": Object {
+          "label": "Sat 4am",
+          "value": 50,
+        },
+        "6": Object {
+          "label": "Sat 6am",
+          "value": 50,
+        },
+        "7": Object {
+          "label": "Sat 7am",
+          "value": 50,
+        },
+        "8": Object {
+          "label": "Sat 8am",
+          "value": 80,
+        },
+        "9": Object {
+          "label": "Sat 9am",
+          "value": 130,
+        },
+      },
+    ]
+  }
+  otherHeatmapData={
+    Array [
+      Object {
+        "0": Object {
+          "label": "Sun 12am",
+          "value": 925,
+        },
+        "10": Object {
+          "label": "Sun 10am",
+          "value": 172,
+        },
+        "11": Object {
+          "label": "Sun 11am",
+          "value": 358,
+        },
+        "12": Object {
+          "label": "Sun 12pm",
+          "value": 882,
+        },
+        "13": Object {
+          "label": "Sun 1pm",
+          "value": 486,
+        },
+        "14": Object {
+          "label": "Sun 2pm",
+          "value": 176,
+        },
+        "15": Object {
+          "label": "Sun 3pm",
+          "value": 472,
+        },
+        "16": Object {
+          "label": "Sun 4pm",
+          "value": 301,
+        },
+        "17": Object {
+          "label": "Sun 5pm",
+          "value": 94,
+        },
+        "18": Object {
+          "label": "Sun 6pm",
+          "value": 313,
+        },
+        "19": Object {
+          "label": "Sun 7pm",
+          "value": 738,
+        },
+        "2": Object {
+          "label": "Sun 2am",
+          "value": 385,
+        },
+        "20": Object {
+          "label": "Sun 8pm",
+          "value": 175,
+        },
+        "23": Object {
+          "label": "Sun 11pm",
+          "value": 930,
+        },
+        "3": Object {
+          "label": "Sun 3am",
+          "value": 347,
+        },
+        "4": Object {
+          "label": "Sun 4am",
+          "value": 416,
+        },
+        "7": Object {
+          "label": "Sun 7am",
+          "value": 779,
+        },
+        "9": Object {
+          "label": "Sun 9am",
+          "value": 387,
+        },
+      },
+      Object {
+        "10": Object {
+          "label": "Mon 10am",
+          "value": 851,
+        },
+        "11": Object {
+          "label": "Mon 11am",
+          "value": 845,
+        },
+        "12": Object {
+          "label": "Mon 12pm",
+          "value": 940,
+        },
+        "13": Object {
+          "label": "Mon 1pm",
+          "value": 619,
+        },
+        "14": Object {
+          "label": "Mon 2pm",
+          "value": 142,
+        },
+        "15": Object {
+          "label": "Mon 3pm",
+          "value": 338,
+        },
+        "16": Object {
+          "label": "Mon 4pm",
+          "value": 597,
+        },
+        "17": Object {
+          "label": "Mon 5pm",
+          "value": 314,
+        },
+        "18": Object {
+          "label": "Mon 6pm",
+          "value": 62,
+        },
+        "19": Object {
+          "label": "Mon 7pm",
+          "value": 805,
+        },
+        "20": Object {
+          "label": "Mon 8pm",
+          "value": 339,
+        },
+        "21": Object {
+          "label": "Mon 9pm",
+          "value": 544,
+        },
+        "22": Object {
+          "label": "Mon 10pm",
+          "value": 686,
+        },
+        "7": Object {
+          "label": "Mon 7am",
+          "value": 961,
+        },
+        "8": Object {
+          "label": "Mon 8am",
+          "value": 789,
+        },
+        "9": Object {
+          "label": "Mon 9am",
+          "value": 388,
+        },
+      },
+      Object {
+        "10": Object {
+          "label": "Tue 10am",
+          "value": 195,
+        },
+        "11": Object {
+          "label": "Tue 11am",
+          "value": 85,
+        },
+        "12": Object {
+          "label": "Tue 12pm",
+          "value": 478,
+        },
+        "13": Object {
+          "label": "Tue 1pm",
+          "value": 760,
+        },
+        "14": Object {
+          "label": "Tue 2pm",
+          "value": 199,
+        },
+        "15": Object {
+          "label": "Tue 3pm",
+          "value": 632,
+        },
+        "16": Object {
+          "label": "Tue 4pm",
+          "value": 790,
+        },
+        "17": Object {
+          "label": "Tue 5pm",
+          "value": 515,
+        },
+        "18": Object {
+          "label": "Tue 6pm",
+          "value": 371,
+        },
+        "19": Object {
+          "label": "Tue 7pm",
+          "value": 71,
+        },
+        "2": Object {
+          "label": "Tue 2am",
+          "value": 444,
+        },
+        "20": Object {
+          "label": "Tue 8pm",
+          "value": 379,
+        },
+        "21": Object {
+          "label": "Tue 9pm",
+          "value": 161,
+        },
+        "22": Object {
+          "label": "Tue 10pm",
+          "value": 160,
+        },
+        "23": Object {
+          "label": "Tue 11pm",
+          "value": 28,
+        },
+        "4": Object {
+          "label": "Tue 4am",
+          "value": 520,
+        },
+        "7": Object {
+          "label": "Tue 7am",
+          "value": 905,
+        },
+        "8": Object {
+          "label": "Tue 8am",
+          "value": 754,
+        },
+        "9": Object {
+          "label": "Tue 9am",
+          "value": 289,
+        },
+      },
+      Object {
+        "10": Object {
+          "label": "Wed 10am",
+          "value": 749,
+        },
+        "11": Object {
+          "label": "Wed 11am",
+          "value": 445,
+        },
+        "12": Object {
+          "label": "Wed 12pm",
+          "value": 740,
+        },
+        "13": Object {
+          "label": "Wed 1pm",
+          "value": 171,
+        },
+        "14": Object {
+          "label": "Wed 2pm",
+          "value": 564,
+        },
+        "15": Object {
+          "label": "Wed 3pm",
+          "value": 85,
+        },
+        "16": Object {
+          "label": "Wed 4pm",
+          "value": 698,
+        },
+        "17": Object {
+          "label": "Wed 5pm",
+          "value": 210,
+        },
+        "18": Object {
+          "label": "Wed 6pm",
+          "value": 87,
+        },
+        "19": Object {
+          "label": "Wed 7pm",
+          "value": 334,
+        },
+        "20": Object {
+          "label": "Wed 8pm",
+          "value": 872,
+        },
+        "21": Object {
+          "label": "Wed 9pm",
+          "value": 121,
+        },
+        "22": Object {
+          "label": "Wed 10pm",
+          "value": 604,
+        },
+        "23": Object {
+          "label": "Wed 11pm",
+          "value": 555,
+        },
+        "6": Object {
+          "label": "Wed 6am",
+          "value": 835,
+        },
+        "7": Object {
+          "label": "Wed 7am",
+          "value": 264,
+        },
+        "8": Object {
+          "label": "Wed 8am",
+          "value": 199,
+        },
+        "9": Object {
+          "label": "Wed 9am",
+          "value": 269,
+        },
+      },
+      Object {
+        "0": Object {
+          "label": "Thu 12am",
+          "value": 421,
+        },
+        "1": Object {
+          "label": "Thu 1am",
+          "value": 989,
+        },
+        "10": Object {
+          "label": "Thu 10am",
+          "value": 447,
+        },
+        "11": Object {
+          "label": "Thu 11am",
+          "value": 85,
+        },
+        "12": Object {
+          "label": "Thu 12pm",
+          "value": 157,
+        },
+        "13": Object {
+          "label": "Thu 1pm",
+          "value": 83,
+        },
+        "14": Object {
+          "label": "Thu 2pm",
+          "value": 359,
+        },
+        "15": Object {
+          "label": "Thu 3pm",
+          "value": 865,
+        },
+        "16": Object {
+          "label": "Thu 4pm",
+          "value": 208,
+        },
+        "17": Object {
+          "label": "Thu 5pm",
+          "value": 875,
+        },
+        "18": Object {
+          "label": "Thu 6pm",
+          "value": 422,
+        },
+        "19": Object {
+          "label": "Thu 7pm",
+          "value": 323,
+        },
+        "20": Object {
+          "label": "Thu 8pm",
+          "value": 548,
+        },
+        "21": Object {
+          "label": "Thu 9pm",
+          "value": 876,
+        },
+        "22": Object {
+          "label": "Thu 10pm",
+          "value": 950,
+        },
+        "23": Object {
+          "label": "Thu 11pm",
+          "value": 923,
+        },
+        "3": Object {
+          "label": "Thu 3am",
+          "value": 851,
+        },
+        "5": Object {
+          "label": "Thu 5am",
+          "value": 808,
+        },
+        "6": Object {
+          "label": "Thu 6am",
+          "value": 327,
+        },
+        "7": Object {
+          "label": "Thu 7am",
+          "value": 815,
+        },
+        "8": Object {
+          "label": "Thu 8am",
+          "value": 418,
+        },
+        "9": Object {
+          "label": "Thu 9am",
+          "value": 464,
+        },
+      },
+      Object {
+        "0": Object {
+          "label": "Fri 12am",
+          "value": 802,
+        },
+        "10": Object {
+          "label": "Fri 10am",
+          "value": 440,
+        },
+        "11": Object {
+          "label": "Fri 11am",
+          "value": 451,
+        },
+        "12": Object {
+          "label": "Fri 12pm",
+          "value": 639,
+        },
+        "13": Object {
+          "label": "Fri 1pm",
+          "value": 418,
+        },
+        "14": Object {
+          "label": "Fri 2pm",
+          "value": 362,
+        },
+        "15": Object {
+          "label": "Fri 3pm",
+          "value": 177,
+        },
+        "16": Object {
+          "label": "Fri 4pm",
+          "value": 224,
+        },
+        "17": Object {
+          "label": "Fri 5pm",
+          "value": 538,
+        },
+        "18": Object {
+          "label": "Fri 6pm",
+          "value": 667,
+        },
+        "19": Object {
+          "label": "Fri 7pm",
+          "value": 792,
+        },
+        "20": Object {
+          "label": "Fri 8pm",
+          "value": 552,
+        },
+        "21": Object {
+          "label": "Fri 9pm",
+          "value": 304,
+        },
+        "22": Object {
+          "label": "Fri 10pm",
+          "value": 405,
+        },
+        "23": Object {
+          "label": "Fri 11pm",
+          "value": 441,
+        },
+        "4": Object {
+          "label": "Fri 4am",
+          "value": 142,
+        },
+        "5": Object {
+          "label": "Fri 5am",
+          "value": 849,
+        },
+        "6": Object {
+          "label": "Fri 6am",
+          "value": 578,
+        },
+        "7": Object {
+          "label": "Fri 7am",
+          "value": 879,
+        },
+        "9": Object {
+          "label": "Fri 9am",
+          "value": 979,
+        },
+      },
+      Object {
+        "0": Object {
+          "label": "Sat 12am",
+          "value": 804,
+        },
+        "10": Object {
+          "label": "Sat 10am",
+          "value": 402,
+        },
+        "11": Object {
+          "label": "Sat 11am",
+          "value": 204,
+        },
+        "12": Object {
+          "label": "Sat 12pm",
+          "value": 511,
+        },
+        "13": Object {
+          "label": "Sat 1pm",
+          "value": 299,
+        },
+        "14": Object {
+          "label": "Sat 2pm",
+          "value": 887,
+        },
+        "15": Object {
+          "label": "Sat 3pm",
+          "value": 48,
+        },
+        "16": Object {
+          "label": "Sat 4pm",
+          "value": 792,
+        },
+        "17": Object {
+          "label": "Sat 5pm",
+          "value": 24,
+        },
+        "18": Object {
+          "label": "Sat 6pm",
+          "value": 13,
+        },
+        "19": Object {
+          "label": "Sat 7pm",
+          "value": 468,
+        },
+        "2": Object {
+          "label": "Sat 2am",
+          "value": 946,
+        },
+        "20": Object {
+          "label": "Sat 8pm",
+          "value": 776,
+        },
+        "21": Object {
+          "label": "Sat 9pm",
+          "value": 993,
+        },
+        "22": Object {
+          "label": "Sat 10pm",
+          "value": 874,
+        },
+        "23": Object {
+          "label": "Sat 11pm",
+          "value": 979,
+        },
+        "4": Object {
+          "label": "Sat 4am",
+          "value": 524,
+        },
+        "6": Object {
+          "label": "Sat 6am",
+          "value": 476,
+        },
+        "7": Object {
+          "label": "Sat 7am",
+          "value": 585,
+        },
+        "8": Object {
+          "label": "Sat 8am",
+          "value": 855,
+        },
+        "9": Object {
+          "label": "Sat 9am",
+          "value": 830,
+        },
+      },
+    ]
+  }
+/>
+`;

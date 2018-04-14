@@ -1,0 +1,22 @@
+.app {
+  .app-header {
+    background-color: #222;
+    height: 20vh;
+    color: white;
+    display: flex;
+
+    .app-headline {
+      flex: 1;
+      text-align: center;
+      align-self: center;
+      font-weight: normal;
+    }
+  }
+
+  .app-content {
+    height: 80vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+}
+

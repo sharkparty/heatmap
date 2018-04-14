@@ -1,0 +1,35 @@
+$blue: rgba(5, 17, 129, .1);
+$green: rgba(45, 190, 0, 1);
+$yellow: rgba(228, 227, 0, 1);
+$red: rgba(239, 83, 47, 1);
+
+.heatmap-row {
+  min-height: 20px;
+  display: block;
+  $blueMax: 34;
+  transition: background-color 250ms;
+
+  @for $i from 0 through $blueMax {
+    &.blue-#{$i} {
+      background-color: rgba(green, $i/$blueMax);
+    }
+  }
+
+  $yellowMax: 67;
+  @for $i from 33 through $yellowMax {
+    &.yellow-#{$i} {
+      background-color: rgba(yellow, $i/$yellowMax);
+    }
+  }
+
+  $redMax: 102;
+  @for $i from 66 through $redMax {
+    &.red-#{$i} {
+      background-color: rgba(red, $i/$redMax);
+    }
+  }
+
+  &.empty {
+    background-color: $blue;
+  }
+}
